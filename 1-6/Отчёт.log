@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.19)  27 APR 2022 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.19)  27 APR 2022 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**document.tex
-(./document.tex
+**–Ю—В—З—С—В.tex
+(./–Ю—В—З—С—В.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -440,12 +440,8 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box49
 )
-(./document.aux
-
-LaTeX Warning: Label `tau' multiply defined.
-
-)
-\openout1 = `document.aux'.
+(./–Ю—В—З—С—В.aux)
+\openout1 = `–Ю—В—З—С—В.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -463,7 +459,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count194
 \scratchdimen=\dimen157
@@ -525,87 +522,77 @@ e
 ms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 68.
+(Font)              using `T2A/cmr/m/n' instead on input line 56.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
-8.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 5
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 68.
+(Font)              using `OML/cmr/m/it' instead on input line 56.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-8.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 56.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 68.
+(Font)              using `OMS/cmr/m/n' instead on input line 56.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
-<1.png, id=13, 354.57469pt x 269.50688pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 76.
-(pdftex.def)             Requested size: 177.28691pt x 134.7531pt.
-[1 <./1.png>] [2]
-<2.png, id=27, 514.92375pt x 162.6075pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 116.
-(pdftex.def)             Requested size: 360.44417pt x 113.82446pt.
- [3 <./2.png>] [4] [5]
-Overfull \hbox (4.1287pt too wide) in paragraph at lines 222--223
-[]\T2A/cmr/m/n/14.4 —реднее зна-че-ние ско-ро-сти и зна-че-ние дли-ны сво-бод-н
-о-го про-бе-га пред-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
  []
 
-[6] [7] (./document.aux)
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[3] (./–Ю—В—З—С—В.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 4909 strings out of 482657
- 68832 string characters out of 5957838
- 314998 words of memory out of 5000000
- 19841 multiletter control sequences out of 15000+600000
- 540822 words of font info for 39 fonts, out of 8000000 for 9000
+ 4896 strings out of 482657
+ 68802 string characters out of 5957838
+ 313949 words of memory out of 5000000
+ 19830 multiletter control sequences out of 15000+600000
+ 541355 words of font info for 39 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,9n,37p,769b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1440.600
-pk> </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600p
-k> </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk
-> </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk>
- </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> 
-</home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (8 pages, 158230 bytes).
+ 32i,6n,37p,836b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1440.600pk
+> </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk>
+ </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk> 
+</home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> <
+/home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb>
+Output written on –Ю—В—З—С—В.pdf (4 pages, 132440 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 251 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
