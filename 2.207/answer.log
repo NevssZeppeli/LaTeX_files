@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.19)  2 MAY 2022 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.19)  4 MAY 2022 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.tex"
-(./ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.tex
+**answer.tex
+(./answer.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -440,25 +440,25 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count193
 \l__pdf_internal_box=\box49
 )
-(./ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.aux)
-\openout1 = `"ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.aux"'.
+(./answer.aux)
+\openout1 = `answer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -516,77 +516,68 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.67387pt too wide) in paragraph at lines 59--59
-[]\T2A/cmr/bx/n/17.28 Òåîðèÿ ìå-òî-äà. Çà-êîí Äþ-ëîí-ãà -- Ïòè. Çà-êîí Äæî-
- []
-
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 61.
+(Font)              using `T2A/cmr/m/n' instead on input line 23.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
-1.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+3.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 61.
+(Font)              using `OML/cmr/m/it' instead on input line 23.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 61.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 61.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 61.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-1.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 23.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+3.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 61.
+(Font)              using `OMS/cmr/m/n' instead on input line 23.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
-[1] [2] [3] (./ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.aux)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./answer.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4893 strings out of 482657
- 68798 string characters out of 5957838
- 317999 words of memory out of 5000000
- 19827 multiletter control sequences out of 15000+600000
- 541355 words of font info for 39 fonts, out of 8000000 for 9000
+ 4869 strings out of 482657
+ 68394 string characters out of 5957838
+ 313921 words of memory out of 5000000
+ 19815 multiletter control sequences out of 15000+600000
+ 536409 words of font info for 33 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,10n,37p,872b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1440.600pk
-> </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk>
- </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> 
-</home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk> <
-/home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </
-home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "ÐžÑ‚Ñ‡Ñ‘Ñ‚ 1-8.pdf" (4 pages, 135042 bytes).
+ 32i,5n,37p,503b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/nevss/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on answer.pdf (1 page, 78950 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
