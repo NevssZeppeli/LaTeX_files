@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  23 NOV 2022 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  24 NOV 2022 00:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -570,31 +570,35 @@ File: scheme-2.png Graphic file (type png)
 <use scheme-2.png>
 Package pdftex.def Info: scheme-2.png  used on input line 143.
 (pdftex.def)             Requested size: 341.39963pt x 287.95007pt.
- [4 <./scheme-2.png>] (Article.aux)
+ [4 <./scheme-2.png>] [5] (Article.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5438 strings out of 478659
- 84741 string characters out of 2845921
- 400616 words of memory out of 3000000
- 23449 multiletter control sequences out of 15000+600000
- 409948 words of font info for 39 fonts, out of 8000000 for 9000
+ 5446 strings out of 478659
+ 84827 string characters out of 2845921
+ 401616 words of memory out of 3000000
+ 23455 multiletter control sequences out of 15000+600000
+ 410289 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,850b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx20
-74.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1440.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\larm1440.pk><C:/Users/Nevss/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb><C:/Users/Nevss/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nevss/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nevss/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nevss/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Article.pdf (5 pages, 182942 bytes).
+ 55i,12n,62p,850b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1440.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+labx2074.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\labx1440.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\larm1440.pk><C:/Users/Nevss/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/Users/Nevss/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nevss/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nevss/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Nevss/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nevss/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
+s/Nevss/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on Article.pdf (6 pages, 204963 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
+ 214 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
