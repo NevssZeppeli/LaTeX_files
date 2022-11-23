@@ -1,0 +1,49 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[14pt]{extsizes}
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в формулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\setlength\extrarowheight{2pt}
+
+
+\geometry{verbose, a4paper, tmargin=2cm, bmargin=2cm, lmargin=3cm, rmargin=2cm}
+\author{Vysotsky Maxim}
+\title{Отчёт}
+\date{2022}
+
+
+\begin{document}
+	В насыщенном паре количество испарившихся частиц равно количеству конденсирующихся. Количество молекул, переходящих в жидкую форму пропорционально количеству ударяющихся о поверхность молекул, которое пропорционально $n<v>$.
+	
+	Число ударов молекул газа о единицу поверхности стенки за единицу времени:
+	$$ N = \frac{1}{4}n<v> $$
+	Количество переходящих молекул ($<v> = \sqrt{\frac{8kT}{\pi m_0}}$):
+	$$\eta \frac{1}{4}n \sqrt{\frac{8kT}{\pi m_0}} = \eta n \sqrt{\frac{kT}{2\pi m_0}}$$
+	
+	Поиграемся с алгеброй, вынеся $kT$ из-под корня:
+	$$\eta n \sqrt{kT} * \frac{\sqrt{kT}}{\sqrt{kT}} * \sqrt{\frac{1}{2\pi m_0}} = \eta nkT \sqrt{\frac{1}{2\pi m_0 kT}}
+	$$
+	Здесь nkT дают нормальное давление, равное $p_0$ (т.к. пар -- насыщенный).
+	
+	Искомая масса $\mu$ будет равна произведению массы вылетевших молекул на их количество:
+	$$\mu = m_0N$$
+	$$\mu = m_0np*\sqrt{\frac{1}{2\pi m_0kT}} = $$	
+	$$ = \sqrt{m_0}*\sqrt{m_0}np*\sqrt{\frac{1}{2\pi m_0kT}} = $$
+	$$ = np_0*\sqrt{\frac{m_0}{2\pi kT} * \frac{N_A}{N_A}} =$$
+	$$ = np_0*\sqrt{\frac{M}{2\pi RT}}$$
+	
+	
+	
+	
+	
+	
+	
+	
+\end{document}
