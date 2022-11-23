@@ -138,8 +138,37 @@ $$ R = \rho \frac{l}{S},$$
 
 \newpage
 \section{Ход работы}
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[scale=0.5]{scheme-2}
+	\end{center}
+	\caption{Схема установки}
+\end{figure}
 
-
+Полученные в ходе работы данные указаны ниже:
+\begin{center}
+	\begin{tabular}{|c|c|c|c|c|}
+		\hline
+		$№$&$l_x$, мм&$l_n$, мм&$\mathcal{E}_n$, В&$\mathcal{E}_x$, В
+		\\ 
+		\hline
+		1	&84,70	&90,45	&1,0183	& 0.9535656163626313
+		\\
+		\hline
+		2	&85,20	&89,62	&1,0183	& 0.9680781075652756
+		\\
+		\hline
+		3	&85,39	&90,60	&1,0183	& 0.9597421302428256
+		\\
+		\hline
+		4	&85,27	&90,28	&1,0183	& 0.9617904408506867
+		\\
+		\hline
+		5	&84,55	&90,93	&1,0183 	& 0.9468521390080281
+		\\
+		\hline
+	\end{tabular}
+\end{center}
 
 
 
