@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  24 NOV 2022 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  24 NOV 2022 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -588,7 +588,7 @@ Here is how much of TeX's memory you used:
  23456 multiletter control sequences out of 15000+600000
  410289 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,919b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,62p,916b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1440.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 labx2074.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -602,7 +602,7 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nevss/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/Nevss/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on Article.pdf (6 pages, 206682 bytes).
+Output written on Article.pdf (6 pages, 206599 bytes).
 PDF statistics:
  216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
