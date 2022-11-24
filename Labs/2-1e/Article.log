@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  24 NOV 2022 00:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.3)  24 NOV 2022 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -570,19 +570,25 @@ File: scheme-2.png Graphic file (type png)
 <use scheme-2.png>
 Package pdftex.def Info: scheme-2.png  used on input line 143.
 (pdftex.def)             Requested size: 341.39963pt x 287.95007pt.
- [4 <./scheme-2.png>] [5] (Article.aux)
+ [4 <./scheme-2.png>]
+Overfull \hbox (1.6516pt too wide) in paragraph at lines 192--193
+\T2A/cmr/m/n/14.4 В дан-ной ра-бо-те мы изу-чи-ли ком-пен-са-ци-он-ный ме-тод и
+з-ме-ре-ния электро-
+ []
+
+[5] (Article.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5446 strings out of 478659
- 84827 string characters out of 2845921
- 401616 words of memory out of 3000000
- 23455 multiletter control sequences out of 15000+600000
+ 5447 strings out of 478659
+ 84837 string characters out of 2845921
+ 400624 words of memory out of 3000000
+ 23456 multiletter control sequences out of 15000+600000
  410289 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,850b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,62p,919b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1440.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
 labx2074.pk> <C:\Users\Nevss\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
@@ -596,9 +602,9 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nevss/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/Nevss/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on Article.pdf (6 pages, 204958 bytes).
+Output written on Article.pdf (6 pages, 206682 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
